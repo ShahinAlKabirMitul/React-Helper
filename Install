@@ -1,3 +1,7 @@
  npm install --save redux react-redux react-router-dom
 
 npm install --save materialize-css
+
+type check
+
+npm i prop-types@15
