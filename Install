@@ -5,3 +5,5 @@ npm install --save materialize-css
 type check
 
 npm i prop-types@15
+
+npm i lodash@4.17.10
