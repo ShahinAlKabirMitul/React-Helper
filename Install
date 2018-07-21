@@ -9,3 +9,5 @@ npm i prop-types@15
 npm i lodash@4.17.10
 
 npm i react-router-dom@4.3.1
+
+npm i query-string@6.1.0
