@@ -13,3 +13,6 @@ npm i react-router-dom@4.3.1
 npm i query-string@6.1.0
 
 npm i joi-browser@13.4
+
+
+npm i react-toastify@4.1
